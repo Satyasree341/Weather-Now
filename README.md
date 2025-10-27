@@ -43,6 +43,6 @@ Clone this repo and run:
 
 ```bash
 git clone https://github.com/Satyasree341/Weather-Now.git
-cd Weather-Now
+cd my-app
 npm install
 npm start
