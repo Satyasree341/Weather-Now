@@ -37,6 +37,9 @@ Jamie wants to quickly check weather before heading outdoors.
   - Weather API → For current weather
 
 ---
+## 🚀 Live Demo  
+🔗 **Live App:** [https://exrcise-weathernow.netlify.app/]
+ **Demo Video:** *(Add your video link here later)*
 
 ##  Run the Project Locally
 Clone this repo and run:
