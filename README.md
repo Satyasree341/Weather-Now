@@ -38,8 +38,12 @@ Jamie wants to quickly check weather before heading outdoors.
 
 ---
 ## 🚀 Live Demo  
-🔗 **Live App:** [https://exrcise-weathernow.netlify.app/]
- **Demo Video:** *(Add your video link here later)*
+ **Live App:** [https://exrcise-weathernow.netlify.app/]
+ **Demo Video:** [https://www.loom.com/share/12795b4440e3410db08a1379aded6c6f]
+
+ ##  Developer Links  
+- GitHub: [https://github.com/Satyasree341] 
+- LinkedIn: [https://www.linkedin.com/in/satya-sree-6037b9265]
 
 ##  Run the Project Locally
 Clone this repo and run:
@@ -49,3 +53,7 @@ git clone https://github.com/Satyasree341/Weather-Now.git
 cd my-app
 npm install
 npm start
+Acknowledgements
+
+This project was created as part of the Aganitha Full Stack Developer Exercise (2024-25).
+APIs used: Open-Meteo
